@@ -1,0 +1,9 @@
+{
+  "name": "aaronbauman/composer-fail",
+  "description": "Composer fail",
+  "type": "project",
+  "require": {
+    "drupal/bootstrap": "dev-3.x"
+  },
+  "minimum-stability": "dev"
+}
